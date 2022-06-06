@@ -1,1 +1,1 @@
-</h1Curso de JavaScript para Web: Crie páginas dinâmicas</h1>
+<h1 Curso de JavaScript para Web: Crie páginas dinâmicas</h1>
